@@ -1,0 +1,22 @@
+[
+  {
+    "package": "ggdag",
+    "oncran": true
+  },
+  {
+    "package": "ggokabeito",
+    "oncran": true
+  },
+  {
+    "package": "metaconfoundr",
+    "oncran": true
+  },
+  {
+    "package": "precisely",
+    "oncran": true
+  },
+  {
+    "package": "tidysmd",
+    "oncran": true
+  }
+]
