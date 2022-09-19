@@ -13,11 +13,6 @@
 	url = https://github.com/malcolmbarrett/ggokabeito
 	shallow = true
 	registered = true
-[submodule "metaconfoundr"]
-	path = metaconfoundr
-	url = https://github.com/malcolmbarrett/metaconfoundr
-	shallow = true
-	registered = true
 [submodule "precisely"]
 	path = precisely
 	url = https://github.com/malcolmbarrett/precisely
