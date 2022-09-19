@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "metaconfoundr",
+    "oncran": true
+  },
+  {
     "package": "precisely",
     "oncran": true
   },
