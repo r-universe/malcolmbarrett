@@ -3,6 +3,21 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggdag"]
+	path = ggdag
+	url = https://github.com/malcolmbarrett/ggdag
+	shallow = true
+	registered = true
+[submodule "ggokabeito"]
+	path = ggokabeito
+	url = https://github.com/malcolmbarrett/ggokabeito
+	shallow = true
+	registered = true
+[submodule "metaconfoundr"]
+	path = metaconfoundr
+	url = https://github.com/malcolmbarrett/metaconfoundr
+	shallow = true
+	registered = true
 [submodule "precisely"]
 	path = precisely
 	url = https://github.com/malcolmbarrett/precisely
@@ -11,20 +26,5 @@
 [submodule "tidysmd"]
 	path = tidysmd
 	url = https://github.com/malcolmbarrett/tidysmd
-	shallow = true
-	registered = true
-[submodule "ggdag"]
-	path = ggdag
-	url = https://github.com/malcolmbarrett/ggdag
-	shallow = true
-	registered = true
-[submodule "metaconfoundr"]
-	path = metaconfoundr
-	url = https://github.com/malcolmbarrett/metaconfoundr
-	shallow = true
-	registered = true
-[submodule "ggokabeito"]
-	path = ggokabeito
-	url = https://github.com/malcolmbarrett/ggokabeito
 	shallow = true
 	registered = true

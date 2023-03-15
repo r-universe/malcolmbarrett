@@ -1,14 +1,10 @@
 [
   {
-    "package": "precisely",
-    "oncran": true
-  },
-  {
-    "package": "tidysmd",
-    "oncran": true
-  },
-  {
     "package": "ggdag",
+    "oncran": true
+  },
+  {
+    "package": "ggokabeito",
     "oncran": true
   },
   {
@@ -16,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "ggokabeito",
+    "package": "precisely",
+    "oncran": true
+  },
+  {
+    "package": "tidysmd",
     "oncran": true
   }
 ]
